@@ -1,4 +1,4 @@
-const heder = document.getElementById("box");
+const heder = document.getElementById("quotes");
 const btn = document.getElementById("btn");
 let content = Math.floor(Math.random() * 102);
 

@@ -14,6 +14,17 @@ div #box {
   background-color: green;
   padding: 1.5rem 1rem;
 }
-div .btn {
+div #box #quotes {
+  height: 7.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+div #box #btn {
+  position: relative;
+  top: 20px;
+  left: 50%;
+  transform: translate(-50%, -50%);
   margin: 10px auto;
 }/*# sourceMappingURL=style.css.map */
